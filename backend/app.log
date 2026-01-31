@@ -1,0 +1,13 @@
+2025-03-30 16:28:45,552 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-30 16:28:45,553 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 18:48:00,505 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-30 18:48:00,506 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 18:48:40,086 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-30 18:48:40,087 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-30 18:49:30,200 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 18:49:30] "[33mGET /partitions HTTP/1.1[0m" 404 -
+2025-03-30 18:49:30,209 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 18:49:30] "[33mGET /partitions HTTP/1.1[0m" 404 -
+2025-03-30 18:55:41,993 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 18:55:41] "[33mPOST /pathnavigator/start HTTP/1.1[0m" 404 -
+2025-03-30 18:55:42,158 - werkzeug - INFO - 127.0.0.1 - - [30/Mar/2025 18:55:42] "[33mPOST /pathnavigator/start HTTP/1.1[0m" 404 -
